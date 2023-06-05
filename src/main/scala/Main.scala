@@ -1,3 +1,3 @@
 object Main extends App {
-val t = new test()
+  println("2")
 }
