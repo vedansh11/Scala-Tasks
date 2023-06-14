@@ -1,0 +1,25 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:44:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:66:14: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:88:14: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:113:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:201:8: method any2stringadd in object Predef is deprecated (since 2.13.0): Implicit injection of + is deprecated. Convert to String to call +[0m
+[0m[[0m[33mwarn[0m] [0m[0m    Ok(id+" "+email+" "+fullname+" "+password+" "+role)[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:208:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:252:14: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:309:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m8 warnings found[0m

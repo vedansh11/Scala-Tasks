@@ -1,0 +1,58 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/vedansh/Desktop/prartice/pro1/demo/target/scala-2.13/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:42:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:64:14: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:86:14: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:111:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:182:8: method any2stringadd in object Predef is deprecated (since 2.13.0): Implicit injection of + is deprecated. Convert to String to call +[0m
+[0m[[0m[33mwarn[0m] [0m[0m    Ok(id+" "+email+" "+fullname+" "+password+" "+role)[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:189:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m6 warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mExporting web-assets:demo[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/vedansh/Desktop/prartice/pro1/demo/target/scala-2.13/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:42:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:64:14: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:86:14: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m      classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:111:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:177:8: method any2stringadd in object Predef is deprecated (since 2.13.0): Implicit injection of + is deprecated. Convert to String to call +[0m
+[0m[[0m[33mwarn[0m] [0m[0m    Ok(id+" "+email+" "+fullname+" "+password+" "+role)[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vedansh/Desktop/prartice/pro1/demo/app/controllers/HomeController.scala:184:12: a pure expression does nothing in statement position; multiline expressions might require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    classOf[Driver][0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m6 warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mExporting web-assets:demo[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[33mwarn[0m] [0m[0mCanceling execution...[0m
+[0m[[0m[31merror[0m] [0m[0mCancelled: run[0m
+[0m[[0m[31merror[0m] [0m[0mCancelled: run[0m
+[0m[[0m[31merror[0m] [0m[0mUse 'last' for the full log.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
